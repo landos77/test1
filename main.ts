@@ -1,8 +1,9 @@
+/**
+* Provides access to basic micro:bit functionality.
+*/
+//% color=190 weight=100 icon="\uf1ec" block="Basic Blocks"
 namespace screenMagic{
-    /**
-    * Provides access to basic micro:bit functionality.
-    */
-    //% color=190 weight=100 icon="\uf1ec" block="Basic Blocks"
+    
     export function plotAt(index:number):void{
         index |=0
         const y = Math.floor(index / 5);
