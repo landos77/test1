@@ -1,6 +1,6 @@
 namespace screenMagic{
     /**
-     * Address  LEDs lineaely row first
+     * Address  LEDs linearly row first
      */
     //% blockId=screenmagicplotat
     //% blockId="plot at index"
