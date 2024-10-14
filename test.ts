@@ -1,1 +1,4 @@
-// aquí va el archivo "tests"; esto no se compilará cuando este paquete se utilice como una extensión.
+for(let i=0; i<25;++i){
+    screenMagic.plotAt(i)
+    basic.pause(100)
+}
