@@ -1,10 +1,10 @@
 /**
-* Provides access to basic micro:bit functionality.
+* Address  LEDs linearly row first.
 */
-//% color=190 weight=100 icon="\uf1ec" block="Basic Blocks"
+//% color=190 weight=100 icon="\uf1ec" block="screenMagic"
 namespace screenMagic{
     /**
-     * Address  LEDs linearly row first
+     * 
      */
     //% blockId=screenMagic
     //% block="plot at index"
